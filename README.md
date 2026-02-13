@@ -70,9 +70,6 @@ A telecom company is losing customers. Our main objectives are:
   - Customer monthly value: $80 × 12 months = $960  
 
 ---
-
-## Executive Summary (1 Page Style)
-
 **Customer Churn Analysis – Key Insights**  
 
 - **Overall churn rate**: ~26%  
