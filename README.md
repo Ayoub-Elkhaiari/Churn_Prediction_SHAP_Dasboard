@@ -115,4 +115,27 @@ A telecom company is losing customers. Our main objectives are:
 
 
 ---
+---
+
+## Deployment Architecture (API + Multi-Container Setup)
+
+To make the solution production-ready and scalable, the model was deployed using a modern API-based architecture:
+
+- **FastAPI backend** serves the trained churn prediction model as a REST API (`/predict` endpoint).
+- **Streamlit frontend** provides an interactive user interface for financial simulation and churn analysis.
+- **Multi-container Docker setup** separates frontend and backend services using Docker Compose.
+- Containers communicate internally via Docker network (service-to-service communication).
+- Environment variables are used for flexible configuration between local and containerized environments.
+
+### Architecture Overview
+
+User → Streamlit Frontend → FastAPI Backend → Trained ML Model
+This architecture enables:
+
+- Clean separation of concerns (UI vs. model inference)
+- Independent backend scalability
+- Production-ready deployment
+- Cloud portability (AWS / GCP / Azure ready)
+
+
 
