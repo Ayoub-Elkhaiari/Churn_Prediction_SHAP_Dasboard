@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis Dashboard
+# Customer Churn Prediction & Financial Optimization Platform
 
 ## Why Does Churn Matter Financially?
 
