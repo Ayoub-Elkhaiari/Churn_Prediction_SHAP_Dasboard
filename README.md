@@ -1,13 +1,14 @@
 # Customer Churn Prediction & Financial Optimization Platform
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=shap&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+![SHAP](https://img.shields.io/badge/-SHAP-black?style=flat-square&logo=shap)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ## Why Does Churn Matter Financially?
 
 Customer churn is one of the most critical metrics for subscription-based businesses, especially telecom:
